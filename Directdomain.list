@@ -1,0 +1,85 @@
+ # 直连规则
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.cn
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,bilivideo.cn
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,v4.ipv6-test.com
+DOMAIN-SUFFIX,v6.ipv6-test.com
+DOMAIN-SUFFIX,oshen.win
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-KEYWORD,lipulai
+DOMAIN-KEYWORD,flapiv2
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-KEYWORD,dyndns
+DOMAIN-SUFFIX,douyucdn.cn
+DOMAIN-SUFFIX,douyucdn2.cn
+DOMAIN-KEYWORD,mozilla
+DOMAIN-KEYWORD,coasv6z
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-KEYWORD,ipv6-test
+DOMAIN-KEYWORD,ipv6ready
+  #代理地址
+DOMAIN-KEYWORD,hongxing
+DOMAIN-SUFFIX,1ytsub.com
+DOMAIN-SUFFIX,flsubcn.cc
+ - DOMAIN-SUFFIX,hlmirror.com
+ - DOMAIN-SUFFIX,unsee.tech
+ - DOMAIN-SUFFIX,1panel.live
+  #github加速
+DOMAIN-SUFFIX,ghfast.top
+DOMAIN-SUFFIX,github.boki.moe
+DOMAIN-SUFFIX,gcore.jsdelivr.net
+  # PT 直连规则
+DOMAIN-KEYWORD,qingwapt
+DOMAIN-KEYWORD,qingwa
+DOMAIN-SUFFIX,1ptba.com
+  # Steam 直连规则
+DOMAIN,csgo.wmsj.cn
+DOMAIN,dl.steam.clngaa.com
+DOMAIN,dl.steam.ksyna.com
+DOMAIN,dota2.wmsj.cn
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,st.dl.pinyuncloud.com
+DOMAIN,steampipe.steamcontent.tnkjmec.com
+DOMAIN,steampowered.com.8686c.com
+DOMAIN,steamstatic.com.8686c.com
+DOMAIN,wmsjsteam.com
+DOMAIN,xz.pphimalayanrt.com
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamchina.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamusercontent.com
+
+  #其他
+DOMAIN-KEYWORD,epicgames-download
+DOMAIN,tv.hnas.cc
+DOMAIN,cg.hnas.cc
+DOMAIN,my.hnas.cc
+DOMAIN,v.hnas.cc
+DOMAIN,oc.hnas.cc
+  
+  # DoT/DoH 直连规则
+DOMAIN-SUFFIX,dns.alidns.com
+DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,dot.pub
+DOMAIN-SUFFIX,doh.360.cn
+DOMAIN-SUFFIX,dot.360.cn
+
+  # IP 直连规则
+IP-CIDR,23.94.41.132/32
+IP-CIDR,114.114.114.114/32
+IP-CIDR,114.114.115.115/32
+IP-CIDR,223.5.5.5/32
+IP-CIDR,223.6.6.6/32
+IP-CIDR,119.29.29.29/32
+IP-CIDR,180.76.76.76/32
+IP-CIDR,1.12.12.12/32
+IP-CIDR,120.53.53.53/32
+IP-CIDR,2402:4e00::/128
