@@ -27,9 +27,9 @@ DOMAIN-KEYWORD,ipv6ready
 DOMAIN-KEYWORD,hongxing
 DOMAIN-SUFFIX,1ytsub.com
 DOMAIN-SUFFIX,flsubcn.cc
- - DOMAIN-SUFFIX,hlmirror.com
- - DOMAIN-SUFFIX,unsee.tech
- - DOMAIN-SUFFIX,1panel.live
+DOMAIN-SUFFIX,hlmirror.com
+DOMAIN-SUFFIX,unsee.tech
+DOMAIN-SUFFIX,1panel.live
   #github加速
 DOMAIN-SUFFIX,ghfast.top
 DOMAIN-SUFFIX,github.boki.moe
