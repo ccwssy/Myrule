@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-KEYWORD,ipv6-test
 DOMAIN-KEYWORD,ipv6ready
+DOMAIN-SUFFIX,jsdelivr.net
   #飞机国内地址
 DOMAIN-KEYWORD,hongxing
 DOMAIN-SUFFIX,1ytsub.com
