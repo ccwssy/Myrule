@@ -23,7 +23,7 @@ DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-KEYWORD,ipv6-test
 DOMAIN-KEYWORD,ipv6ready
-DOMAIN-SUFFIX,jsdelivr.net
+
   #飞机国内地址
 DOMAIN-KEYWORD,hongxing
 DOMAIN-SUFFIX,1ytsub.com
@@ -34,7 +34,8 @@ DOMAIN-SUFFIX,1panel.live
   #github加速
 DOMAIN-SUFFIX,ghfast.top
 DOMAIN-SUFFIX,github.boki.moe
-DOMAIN-SUFFIX,gcore.jsdelivr.net
+DOMAIN-SUFFIX,jsdelivr.net
+
   # PT 直连规则
 DOMAIN-KEYWORD,qingwapt
 DOMAIN-KEYWORD,qingwa
