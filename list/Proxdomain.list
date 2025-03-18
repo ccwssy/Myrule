@@ -27,13 +27,16 @@ DOMAIN-SUFFIX,acgfun.moe
 DOMAIN-SUFFIX,acgyh.com
 DOMAIN-SUFFIX,iptvsubscriptionmedia.com
   # Google 相关
-DOMAIN,dns.google
+
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,google.com.tw
 DOMAIN-SUFFIX,google.com.hk
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+
+#其他
+DOMAIN-SUFFIX,fuliba.net
 
   
   # IP 代理规则
