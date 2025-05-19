@@ -48,7 +48,8 @@ DOMAIN-KEYWORD,qingwa
 DOMAIN-SUFFIX,1ptba.com
   #其他
 DOMAIN-KEYWORD,epicgames-download
-DOMAIN-SUFFIX,hnas.cc
+DOMAIN,my.hnas.cc
+DOMAIN,tv.hnas.cc
  
   # DoT/DoH 直连规则
 DOMAIN-SUFFIX,dns.alidns.com
