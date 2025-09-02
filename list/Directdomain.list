@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,kaiqsz.com
 DOMAIN-SUFFIX,llguangliou.com
 DOMAIN-SUFFIX,llguangli30.com
 
+
   #github加速
 DOMAIN-SUFFIX,ghfast.top
 DOMAIN-SUFFIX,github.boki.moe
@@ -56,11 +57,14 @@ DOMAIN-SUFFIX,misoso.cc
 DOMAIN-SUFFIX,bttwo.me
 DOMAIN-SUFFIX,subaibai.com
 DOMAIN-SUFFIX,libvio.link
+DOMAIN-SUFFIX,gotomymv.life
+DOMAIN-SUFFIX,wsrv.nl
 DOMAIN-KEYWORD,djvog
 DOMAIN-KEYWORD,zxzjhd
 DOMAIN-KEYWORD,auete
 DOMAIN-KEYWORD,hkybqufgh
 DOMAIN-KEYWORD,xpgtv
+
 
   #其他
 DOMAIN-KEYWORD,epicgames-download
